@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kcrssimon.22@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/simon-caceres-9757571a8/](https://www.linkedin.com/in/simon-caceres-9757571a8/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/simon-caceres-ram%C3%ADrez-9757571a8/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
