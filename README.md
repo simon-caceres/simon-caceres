@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simon Caceres</h1>
 <h3 align="center">A passionate Software Engineer from Chile</h3>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **GO**
 
 - 💬 Ask me about **react, react-native, vuejs, Javascript**
 
